@@ -1,18 +1,21 @@
-# BMW S1000RR Parallax Website
+<div align="center">
 
-![BMW S1000RR](s1000rr-image.jpg)
+<h1><strong>BMW S1000RR</strong> - Parallax Website</h1>
 
-## Introduction
+<h2>
+  <a href="">Live Project Link</a>
+</h2>
 
-Welcome to the BMW S1000RR Parallax Website! This website is designed to showcase the beauty and performance of the BMW S1000RR, a true masterpiece in the world of sportbikes.
+<div align="center">
+    <img alt="Website View" src="./assets/img/Screenshot 2023-09-08 184934.png" />
+</div>
+</br>
 
-Experience the thrill of the track with the BMW S1000RR. Unmatched performance and precision engineering make it the ultimate riding machine. This website takes you on a journey through its specifications, performance, and more.
+<p>
+Welcome to the BMW S1000RR Parallax Website! This website is designed to showcase the beauty and performance of the BMW S1000RR, a true masterpiece in the world of sport bikes.
+</p>
 
-## Table of Contents
-
-- [Specifications](#specifications)
-- [In Action](#in-action)
-- [Contact Us](#contact-us)
+---
 
 ## Specifications
 
@@ -26,17 +29,11 @@ The BMW S1000RR comes with an impressive set of specifications:
 
 ## In Action
 
-![BMW S1000RR in Action](s1000rr-action.jpg)
+<div align="center">
+    <img alt="Website View" src="./assets/img/bmw-s1000rr.webp" />
+</div>
 
-Race to win with the BMW S1000RR. Designed for the track, this sportbike delivers uncompromising performance. 
-
-## Contact Us
-
-If you're ready to experience the BMW S1000RR, contact us today to schedule a test ride:
-
-- Email: [info@bmws1000rr.com](mailto:info@bmws1000rr.com)
-
-We look forward to hearing from you!
+Race to win with the BMW S1000RR. Designed for the track, this sportbike delivers uncompromising performance.
 
 ---
 

@@ -18,8 +18,8 @@ Welcome to the BMW S1000RR Parallax Website! This website is designed to showcas
 ---
 
 <div>
-<img align="left" alt="BMW S1000RR" src="./assets/img/bmw-s1000rr.webp" width="300px"/>
-<img align="right" alt="BMW logo" src="./assets/img/bmw-logo.svg" width="150px"/>
+<img align="left" alt="BMW logo" src="./assets/img/bmw-logo.svg" width="150px"/>
+<img align="left" alt="BMW S1000RR" src="./assets/img/s1000rr.png" width="150px"/>
 <p align="center">
 Race to win with the BMW S1000RR. Designed for the track, this sport bike delivers uncompromising performance. 
 </br>

@@ -55,7 +55,7 @@ intro_tl
     }
   )
   .fromTo(
-    "#liberty",
+    "#bmw",
     {
       scale: 0.8,
       y: -300,
@@ -77,7 +77,7 @@ intro_tl
     duration: 0.6,
     ease: "expo.out",
   })
-  .to("#intro-h1", {
+  .to("#intro-h2", {
     scrollTrigger: {
       start: 500,
       end: 700,
@@ -101,7 +101,7 @@ intro_tl
 // TIMELINE: Part 1
 part1_tl
   .fromTo(
-    "#liberty",
+    "#bmw",
     {
       scale: 1,
       y: 0,
@@ -118,7 +118,7 @@ part1_tl
       },
     }
   )
-  .from("#panel-h1", {
+  .from("#panel-h2", {
     scrollTrigger: {
       start: 1300,
       end: 1500,
@@ -155,7 +155,7 @@ part1_tl
 
 // TIMELINE: Part 2
 part2_tl
-  .from("#panel-h1", {
+  .from("#panel-h2", {
     scrollTrigger: {
       start: 2000,
       end: 2200,
@@ -213,7 +213,7 @@ part3_tl
       ease: "sine.out",
     }
   )
-  .to("#liberty", {
+  .to("#bmw", {
     scrollTrigger: {
       start: 2600,
       end: 2800,
@@ -306,7 +306,7 @@ part3_tl
     },
   })
   .fromTo(
-    "#liberty",
+    "#bmw",
     {
       x: 400,
     },
@@ -418,7 +418,7 @@ part5_tl
     "-=.5"
   )
   .fromTo(
-    "#liberty",
+    "#bmw",
     {
       x: -360,
     },
@@ -453,7 +453,7 @@ outro_tl
     }
   )
   .fromTo(
-    "#liberty",
+    "#bmw",
     {
       scale: 0.8,
       y: -300,
@@ -504,7 +504,7 @@ outro_tl
 
 // TIMELINE: Main
 scene
-  .set("#liberty", {
+  .set("#bmw", {
     x: 0,
   })
   .add(intro_tl)

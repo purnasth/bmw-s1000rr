@@ -3,7 +3,7 @@
 <h1><strong>BMW S1000RR</strong> - Parallax Website</h1>
 
 <h2>
-  <a href="">Live Project Link</a>
+  <a href="https://www.purnashrestha.com.np/bmw-s1000rr/" target="_blank">Live Project Link</a>
 </h2>
 
 <div align="center">
@@ -29,7 +29,6 @@ I hope you enjoy exploring the BMW S1000RR through this parallax website as much
 </p>
 
 </div>
-</br>
 </br>
 
 ---

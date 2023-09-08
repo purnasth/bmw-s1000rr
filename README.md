@@ -7,7 +7,7 @@
 </h2>
 
 <div align="center">
-    <img alt="Website View" src="./assets/img/Screenshot 2023-09-08 184934.png" />
+    <img alt="Website View" src="./assets/img/Screenshot.png" />
 </div>
 </br>
 
@@ -17,24 +17,15 @@ Welcome to the BMW S1000RR Parallax Website! This website is designed to showcas
 
 ---
 
-## Specifications
-
-The BMW S1000RR comes with an impressive set of specifications:
-
-- **Engine:** 999cc In-line 4-cylinder
-- **Horsepower:** 205 hp @ 13,500 rpm
-- **Torque:** 83 lb-ft @ 10,500 rpm
-- **Frame:** Twin-spar aluminum frame
-- **Suspension:** Adjustable front and rear suspension
-
 ## In Action
 
 <div align="center">
-    <img alt="Website View" src="./assets/img/bmw-s1000rr.webp" />
+    <img align="left" alt="Website View" src="./assets/img/bmw-s1000rr.webp" />
+    <p align="right">
+    Race to win with the BMW S1000RR. Designed for the track, this sportbike delivers uncompromising performance.
+    </p>
 </div>
-
-Race to win with the BMW S1000RR. Designed for the track, this sportbike delivers uncompromising performance.
 
 ---
 
-© 2023 BMW S1000RR Parallax Website. All rights reserved.
+© 2023 BMW S1000RR parallax website | Purna Shrestha | . All rights reserved.

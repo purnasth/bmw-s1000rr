@@ -108,7 +108,7 @@ part1_tl
     },
     {
       scale: 0.8,
-      y: -300,
+      y: -400,
       duration: 1,
       ease: "sine.out",
       scrollTrigger: {
@@ -219,7 +219,7 @@ part3_tl
       end: 2800,
       scrub: 1,
     },
-    x: 400,
+    x: 600,
     duration: 2,
     ease: "sine.out",
   })
@@ -316,7 +316,7 @@ part3_tl
         end: 3800,
         scrub: 1,
       },
-      x: -360,
+      x: -700,
       duration: 3,
       ease: "sine.out",
     }
@@ -466,7 +466,7 @@ outro_tl
       },
       x: 0,
       scale: 0.7,
-      y: -340,
+      y: -520,
       duration: 3,
       ease: "sine.out",
     }
